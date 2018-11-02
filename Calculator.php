@@ -16,5 +16,10 @@ class Calculator
     {
         return $a / $b;
     }
+
+    public function espar($a)
+    {
+        return $a%2;
+    }
  
 }
